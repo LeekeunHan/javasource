@@ -17,6 +17,12 @@ local.properties
 */.classpath
 */.project
 
+Servers/
+MANIFEST.MF
+
+
+
+
 # External tool builders
 .externalToolBuilders/
 
